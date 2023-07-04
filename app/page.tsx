@@ -1,6 +1,6 @@
 const Home = () => {
   return <>
-   <h1> Getting Started with NextJs </h1>
+   <h1> Getting Started with <span style={{color: "blue"}}>NextJs</span>  </h1>
   </>
 }
 
